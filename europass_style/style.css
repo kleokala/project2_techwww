@@ -1,0 +1,110 @@
+html {
+	background-color:#fff;
+	}
+#wrapper {
+	background-color:#fff;
+	width:903px;
+	}
+#header {
+	float:left;
+	padding-left:40px;
+	overflow:hidden;
+	}
+#title {
+	padding-top:200px;
+	float:left;
+}
+
+img{
+	margin-left:300px;
+}
+#content {
+	background-color:#fff;
+	float:left;
+	padding:30px;
+	width:843px;
+}
+.row {
+	float:left;
+	margin:20px 0 0 0;
+	width:843px;
+	}
+	.col-min {
+		float:left;
+		margin-top:-20px;
+		margin-left:10px;
+		padding-bottom:50px;
+		}
+	.col-mid {
+		float:left;
+		margin-top:-20px;
+		margin-left:10px;
+		width:510px;
+		}
+
+body {
+	
+	
+	font-family: Arial;
+	font-size:13px;
+	
+	line-height:20px;
+	}
+h{
+	font-family:"Arial Narrow";
+}
+
+h1 {
+	font-family:"Arial Black";
+	font-size:10pt;
+	width:200px;
+	margin-top:-18px;
+	margin-left:300px;
+}
+
+h2 {
+	font-family:"Arial Black";
+	font-size:10pt;
+	width:200px;
+	}
+h3 {
+	font-family:"Arial Narrow";
+	padding:0 0 10px 0;
+	width:200px;
+	}
+	
+table{
+	font-family:"Arial Narrow";
+	
+	
+}
+p {
+	font-family:"Arial Narrow";
+	margin-left:300px;
+	margin-top:-50px;
+}
+
+#contact {
+	float:left;
+	padding-top:30px;
+	padding-right:600px;
+	width:300px;
+	}
+	#contact dt {
+		color:#000000;
+		float:left;
+		font-family:"Arial Narrow";
+		padding-right:10px;
+		text-align:left;
+		width:60px;
+		}
+	#contact dd {
+		float:left;
+		font-family:"Arial Narrow";
+		font-size:10pt;
+		width:230px;
+		margin-top:-18px;
+		margin-left:300px;
+		font-weight: bold;
+		color:#000000;
+	}
